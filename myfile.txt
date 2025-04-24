@@ -1,2 +1,3 @@
 Name: Syed M Abdulrehman
 Roll number: 24-ST-76
+Department: SET
